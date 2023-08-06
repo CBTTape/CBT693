@@ -1,0 +1,25 @@
+2023-08-06 06:32:06.995590 - Initialized conversion of CBT693
+2023-08-06 06:32:07.177006 - Received CBT.V505.FILE693.PDS from FILE693.XMI 
+2023-08-06 06:32:07.179819 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:32:07.180906 - Found $$DOC.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$DOC
+2023-08-06 06:32:07.181917 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:32:07.182883 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$NOTE2
+2023-08-06 06:32:07.183833 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$NOTE3
+2023-08-06 06:32:07.184817 - Found $$NOTE4.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/$$NOTE4
+2023-08-06 06:32:07.190649 - Found $LOADLIB.xmi (application/xmit) in CBT.V505.FILE693.PDS
+2023-08-06 06:32:07.196454   - Received RECFM=U data, stored XMIT file as CBT693/$LOADLIB.xmi
+2023-08-06 06:32:07.197380 - Found @FILE693.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/@FILE693
+2023-08-06 06:32:07.198391 - Found ALTERDIR.rexx (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/ALTERDIR
+2023-08-06 06:32:07.199309 - Found ASSEMBLE.jcl (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/ASSEMBLE
+2023-08-06 06:32:07.200184 - Found ASSEMSBG.jcl (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/ASSEMSBG
+2023-08-06 06:32:07.201057 - Found CHANGES.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/CHANGES
+2023-08-06 06:32:07.201950 - Found COMPRESS.rexx (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/COMPRESS
+2023-08-06 06:32:07.202811 - Found HELPALT.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/HELPALT
+2023-08-06 06:32:07.203604 - Found HELPCOM.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/HELPCOM
+2023-08-06 06:32:07.204467 - Found HELPPDS.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/HELPPDS
+2023-08-06 06:32:07.205343 - Found HELPZER.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/HELPZER
+2023-08-06 06:32:07.206289 - Found IVPTEST.jcl (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/IVPTEST
+2023-08-06 06:32:07.207251 - Found PDSCLEAN.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/PDSCLEAN
+2023-08-06 06:32:07.208096 - Found PROC.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/PROC
+2023-08-06 06:32:07.209010 - Found SAMPRPT.txt (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/SAMPRPT
+2023-08-06 06:32:07.209984 - Found ZERODIR.rexx (text/plain) in CBT.V505.FILE693.PDS, moved to PDS/ZERODIR
